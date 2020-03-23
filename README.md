@@ -55,4 +55,74 @@ Link para maiores informações: [Q&A Sobre Corona Vírus - OMS (em inglês)](ht
 * Para iniciar, clone deste repositório
 * Para organização dos sprints entre os membros da equipe, basta ir no link referente ao projeto [aqui](https://github.com/eagle-id/chatbot-auto-exame/projects/1) 
 
+ ---
  
+# Estrutura para Árvore de Decisão
+ 
+## Boas vindas ao Chat
+     (Texto introdutorio)
+### Botão de opções
+* QUERO AJUDA PROFISSIONAL
+* QUERO INFORMACAO
+* QUERO SER PROFISSIONAL VOLUNTARIO
+* QUERO DOAR PARA AJUDAR PESSOAS CARENTES
+* QUERO ME QUALIFICAR 
+* QUERO DICAS DE COMO TRABALHAR DE CASA (HOME OFFICE)
+* QUERO E BUSCO ORIENTACAO ESPIRITUAL
+
+---
+
+## Quero ajuda profissional
+     (Texto introdutorio)
+### Botão de opções:
+* PSICOLOGO
+* ADVOGADO
+* NUTRICIONISTA
+* ENFERMEIRO
+* MEDICO
+* EDUCADOR FISICO
+* ASSISTENTE SOCIAL
+* PEDAGOGO
+* DENTISTA
+* VETERINARIO
+* ADMINISTRADOR DE EMPRESA
+* CONTADOR
+* FARMACEUTICO
+* BIOMEDICO
+* ORIENTADOR ESPIRITUAL
+
+---
+
+## Quero informação
+(Texto introdutório)
+### Botão de opções:
+* RECOMENDACOES DE PREVENCAO AO COVID 19
+* DIETA ALIMENTAR
+* MEDICACOES
+* EXERCICIOS FISICOS
+* PREVENCAO PARA IDOSOS
+
+---
+
+## Quero me qualificar
+(Texto introdutório)
+* LINKS DE SITES DE OFERTA DE CURSOS FREE EAD
+* ...
+* LINK PARA  SITE UNISINOS
+
+---
+
+## Quero dicas de como trabalhar de casa
+(Texto introdutório)
+* LINKS DE TEXTOS
+* ...
+* LINKS DE SITES
+* .... 
+
+---
+
+## Quero e busco orientação espiritual
+(Texto introdutório)
+### BOTOES DE OPCOES:
+* ALGUEM ORAR COMIGO
+* ALGUEM PARA CONVERSAR
