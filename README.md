@@ -53,6 +53,6 @@ Link para maiores informações: [Q&A Sobre Corona Vírus - OMS (em inglês)](ht
 # Como realizar
 
 * Para iniciar, clone deste repositório
-* Para organização dos sprints entre os membros da equipe, basta ir no link referente ao projeto [aqui](https://github.com/eagle-id/hackathon-covid-19/projects/1) 
+* Para organização dos sprints entre os membros da equipe, basta ir no link referente ao projeto [aqui](https://github.com/eagle-id/chatbot-auto-exame/projects/1) 
 
  
