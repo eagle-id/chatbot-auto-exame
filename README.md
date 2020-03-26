@@ -131,4 +131,4 @@ Link para maiores informações: [Q&A Sobre Corona Vírus - OMS (em inglês)](ht
 
 ## Quero realizar uma doação
 (Texto introdutório)
-* Dados de ageência e conta ASAV
+* Dados de agência e conta ASAV
