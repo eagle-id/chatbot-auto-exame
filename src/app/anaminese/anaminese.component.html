@@ -1,0 +1,43 @@
+<div class="row">
+  <div class="col s12 title">
+    {{currentStep}}
+  </div>
+  <div class="col s12 sub-title" *ngIf="currentSubTitle !== ''">
+    {{currentSubTitle}}
+  </div>
+  <div class="col s12 list">
+    <div class="col s12" *ngIf="onLoading" >
+      <app-loading></app-loading>
+    </div>
+    <div *ngFor="let item of responses" class="col s12 item  {{selectedItem(item.id) ? 'selected' : ''}}"  (click)="addResponse(item.id)" >
+        {{item.descricao}}
+    </div>
+    <div class="col s11" *ngIf="true">
+      <div class="input-field col s12">
+        <input type="text" placeholder="NOME"/>
+      </div>
+
+      <input type="text" placeholder="SOBRENOME"/>
+      <input type="date" placeholder="DATA DE NASCIMENTO"/>
+      <input type="text" placeholder="NÚMERO DE TELEFONE" mask="(00) 0000-0000"/>
+      <input type="text" placehold  er="NÚMERO DE CPF"/>
+      <p>
+        <label>
+          <input type="checkbox" />
+          <span>Li e aceito os <strong class="alert">termos e condições</strong></span>
+        </label>
+      </p>
+    </div>
+    <div class="row buttons"*ngIf="!onLoading">
+      <div class="col s6">
+        <span *ngIf="!isFirstStep" (click)="previuosStep()">
+          VOLTAR
+        </span>
+      </div>
+      <div class="col s6 next">
+        <span *ngIf="!isLastStep" (click)="nextStep()">PRÓXIMO</span>
+        <span *ngIf="isLastStep">FINALIZAR</span>
+      </div>
+    </div>
+  </div>
+</div>

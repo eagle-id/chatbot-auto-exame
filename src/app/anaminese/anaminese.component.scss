@@ -1,0 +1,83 @@
+@import "../../variables.scss";
+.title {
+  margin: 0 !important;
+  padding: 30px 10px 30px 30px;
+  background-color: $primary-green;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+}
+.sub-title {
+  margin: 0 !important;
+  padding: 20px 10px 20px 10px;
+  background-color: $primary-gray;
+  color: #5e5d5d;
+  text-align: center;
+}
+.responses {
+  background-color: $secondary-gray;
+}
+
+.list {
+  background-color: $basic-gray;
+  padding: 10px 20px 5px 20px;
+  margin: 0 !important;
+  font-size: 14px;
+  .item {
+    cursor: pointer;
+    padding: 20px 10px 20px 30px;
+    margin-bottom: 10px;
+    color: $secondary-gray;
+    border: 2px solid;
+    border-color: $secondary-gray;
+    border-radius: 20px;
+    font-weight: 500;
+  }
+  .selected {
+    background-color: $primary-green;
+    color: $white;
+    border-color: $white;
+  }
+  .question {
+    padding: 5px;
+    background-color: #808080;
+    color: #dbd7d7;
+    border-radius: 100px;
+    font-size: 18px;
+  }
+  input {
+    padding: 20px 10px 20px 30px;
+    margin-bottom: 10px;
+    color: $secondary-gray;
+    border: 2px solid;
+    border-color: $secondary-gray;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    &::placeholder {
+      color: $secondary-gray;
+    }
+    &:focus {
+      background-color: $white;
+    }
+  }
+  .alert {
+    cursor: pointer;
+    color: $alert;
+    font-weight: bolder;
+  }
+}
+
+.buttons {
+  font-weight: 700;
+  color: $secondary-gray;
+  margin-top: 20px;
+  .next {
+    cursor: pointer;
+    text-align: right;
+  }
+  .back {
+    cursor: pointer;
+    text-align: left;
+  }
+}
