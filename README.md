@@ -60,35 +60,35 @@ Link para maiores informações: [Q&A Sobre Corona Vírus - OMS (em inglês)](ht
 # Estrutura para Árvore de Decisão
  
 ## Boas vindas ao Chat
-     (Texto introdutorio)
+     (Texto introdutório)
 ### Botão de opções
 * QUERO AJUDA PROFISSIONAL
-* QUERO INFORMACAO
-* QUERO SER PROFISSIONAL VOLUNTARIO
+* QUERO INFORMAÇÃO
+* QUERO SER PROFISSIONAL VOLUNTÁRIO
 * QUERO DOAR PARA AJUDAR PESSOAS CARENTES
 * QUERO ME QUALIFICAR 
 * QUERO DICAS DE COMO TRABALHAR DE CASA (HOME OFFICE)
-* QUERO E BUSCO ORIENTACAO ESPIRITUAL
+* QUERO E BUSCO ORIENTAÇÃO ESPIRITUAL
 
 ---
 
 ## Quero ajuda profissional
-     (Texto introdutorio)
+     (Texto introdutório)
 ### Botão de opções:
-* PSICOLOGO
+* PSICÓLOGO
 * ADVOGADO
 * NUTRICIONISTA
 * ENFERMEIRO
-* MEDICO
-* EDUCADOR FISICO
+* MÉDICO
+* EDUCADOR FÍSICO
 * ASSISTENTE SOCIAL
 * PEDAGOGO
 * DENTISTA
-* VETERINARIO
+* VETERINÁRIO
 * ADMINISTRADOR DE EMPRESA
 * CONTADOR
-* FARMACEUTICO
-* BIOMEDICO
+* FARMACÊUTICO
+* BIOMÉDICO
 * ORIENTADOR ESPIRITUAL
 
 ---
@@ -96,11 +96,11 @@ Link para maiores informações: [Q&A Sobre Corona Vírus - OMS (em inglês)](ht
 ## Quero informação
 (Texto introdutório)
 ### Botão de opções:
-* RECOMENDACOES DE PREVENCAO AO COVID 19
+* RECOMENDAÇÕES DE PREVENÇÃO AO COVID-19
 * DIETA ALIMENTAR
-* MEDICACOES
-* EXERCICIOS FISICOS
-* PREVENCAO PARA IDOSOS
+* MEDICAÇÕES
+* EXERCÍCIOS FISICOS
+* PREVENÇÃO PARA IDOSOS
 
 ---
 
@@ -124,11 +124,15 @@ Link para maiores informações: [Q&A Sobre Corona Vírus - OMS (em inglês)](ht
 ## Quero e busco orientação espiritual
 (Texto introdutório)
 ### BOTOES DE OPCOES:
-* ALGUEM ORAR COMIGO
-* ALGUEM PARA CONVERSAR
+* ALGUÉM ORAR COMIGO
+* ALGUÉM PARA CONVERSAR
 
 ---
 
 ## Quero realizar uma doação
 (Texto introdutório)
 * Dados de agência e conta ASAV
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
